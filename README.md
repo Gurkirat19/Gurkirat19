@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gurkirat singh 
-- 👀 I’m interested in hacking and as well as a AI engineer
+- 👀 I’m interested in hacking and enthusiast in learning AI & DS
 - 🌱 I’m currently pursuing (BTECH CSE AI & DS) collaboration with (IBM)
 - 💞️ looking forward to become a good programmer 
 - 📫 How to reach me by emailing at (gurkirat19singh.19@gmail.com) / (proph3cy19@gmail.com)
