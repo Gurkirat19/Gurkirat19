@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gurkirat Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?sca_esv=badf4797a512914c&sca_upv=1&sxsrf=ADLYWILInPXkDyNKUroMtls_YB9uJVdQOQ:1725019345801&q=animated+coding+gif&udm=2&fbs=AEQNm0DPvcmG_nCbmwtBO9j6YBzM68ZanC7g01Skprhw5JoufbCK1nGzScVrgK3HSlrjNu6plNP03ZWuAbxABvYcOgcrcxfyLKP90Tl7ddJSOKqiK6tH7okCSOtAvUPF-BJHLiRHhZEd8-NeQ72ZVvYYQC_UYoxUlN7HwIzY4nrxQa9S_SlLHoXS4ZmjH4QzOBH5WsqPHhJj3iTMnkI8X_xkf5qPuCPTVQ&sa=X&ved=2ahUKEwjt9Njq1ZyIAxVBklYBHasCBHcQtKgLegQIGBAB&biw=1536&bih=703&dpr=1.25#vhid=dbrfb5dvHO4gVM&vssid=mosaic">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurkirat19&label=Profile%20views&color=0e75b6&style=flat" alt="gurkirat19" /> </p>
 
 - 🌱 I’m currently learning **AI and Data Science**
