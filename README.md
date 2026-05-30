@@ -1,30 +1,266 @@
-[![masterHead](https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif)]
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Gurkirat Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+# 👋 Hi, I'm Gurkirat Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurkirat19&label=Profile%20views&color=0e75b6&style=flat" alt="gurkirat19" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Computer+Vision+Developer;Software+Developer;Blockchain+Explorer;Hackathon+Enthusiast;Building+AI+Powered+Solutions"/>
 
-- 🌱 I’m currently learning **AI and Data Science**
+<br>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gurkirat-singh-2899b92a8/](https://www.linkedin.com/in/gurkirat-singh-2899b92a8/)
+<a href="https://gurkirat-portfolio-19.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+</a>
 
-- 📫 How to reach me **gurkirat19singh.19@gmail.com**
+<a href="#">
+<img src="https://img.shields.io/badge/📄_Resume-0F172A?style=for-the-badge&logo=readthedocs&logoColor=A855F7"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gurkirat singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurkirat singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/gurkirat singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gurkirat singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gurkirat19singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gurkirat19singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gurkiratsingh19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gurkiratsingh19" height="30" width="40" /></a>
-</p>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurkirat19&show_icons=true&locale=en&layout=compact" alt="gurkirat19" /></p>
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurkirat19&show_icons=true&locale=en" alt="gurkirat19" /></p>
+<img src="https://komarev.com/ghpvc/?username=Gurkirat19&style=for-the-badge&color=blueviolet"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurkirat19&" alt="gurkirat19" /></p>
+</div>
+
+---
+
+# 🤖 Initializing Developer Profile...
+
+```python
+class Gurkirat:
+
+    def __init__(self):
+        self.role = [
+            "AI/ML Engineer",
+            "Software Developer"
+        ]
+
+        self.skills = [
+            "Machine Learning",
+            "Computer Vision",
+            "Python",
+            "React",
+            "Flask"
+        ]
+
+        self.current_focus = [
+            "AI Products",
+            "Vision AI",
+            "Full Stack Applications"
+        ]
+
+        self.motto = "Turning ideas into intelligent solutions"
+
+    def status(self):
+        return "🚀 Building the future, one project at a time."
+
+
+me = Gurkirat()
+print(me.status())
+```
+
+```console
+🚀 Building the future, one project at a time.
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=python,flask"/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧠 AI Diagnostic Report Generator
+
+AI-powered medical report analysis and intelligent report generation.
+
+**Tech Stack**
+
+`React` `FastAPI` `OpenAI` `PyMuPDF`
+
+</td>
+
+<td width="50%">
+
+### ☀️ Rooftop Solar Potential Analysis
+
+Vision AI system for solar feasibility assessment.
+
+**Tech Stack**
+
+`Python` `TensorFlow` `OpenCV` `CNN`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💰 Gold Price Prediction
+
+Machine Learning forecasting system with R² score of 0.91.
+
+**Tech Stack**
+
+`Python` `XGBoost` `Scikit-Learn`
+
+</td>
+
+<td width="50%">
+
+### 🚨 Escape Route
+
+Intelligent emergency evacuation and routing system.
+
+**Tech Stack**
+
+`Python` `A*` `Dijkstra`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⛓️ Blockchain Crowdfunding
+
+Decentralized crowdfunding platform with milestone releases.
+
+**Tech Stack**
+
+`Solidity` `Rust` `Web3`
+
+</td>
+
+<td width="50%">
+
+### 🎮 Virtual Escape Room
+
+Interactive puzzle-solving game built with Python.
+
+**Tech Stack**
+
+`Python` `Pygame`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gurkirat19&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gurkirat19&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gurkirat19/gurkirat/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gurkirat19/gurkirat/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Gurkirat19/gurkirat/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 💭 Developer Mindset
+
+> "Technology becomes meaningful when it solves real-world problems and creates impact."
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:gurkirat19singh.19@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Always+Learning;Always+Building;Always+Improving+🚀"/>
+
+</div>
