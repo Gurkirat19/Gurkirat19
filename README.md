@@ -188,45 +188,6 @@ Interactive puzzle-solving game built with Python.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gurkirat19&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gurkirat19&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Gurkirat19/gurkirat/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Gurkirat19/gurkirat/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/Gurkirat19/gurkirat/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 # 💭 Developer Mindset
 
 > "Technology becomes meaningful when it solves real-world problems and creates impact."
