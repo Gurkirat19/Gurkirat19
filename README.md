@@ -26,29 +26,90 @@ Vice President, E-Cell CT University — built and ran **Code Crafter 3.0**, a 2
 
 ## Tech Stack
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark"/>
+**LANGUAGES**
 
-**Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask&theme=dark"/>
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pytorch&theme=dark"/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,render&theme=dark"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=D4AF37"/>
 
 </div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**FRAMEWORKS**
+
+<img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Express-0D0D0D?style=for-the-badge&logo=express&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Flask-0D0D0D?style=for-the-badge&logo=flask&logoColor=D4AF37"/>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/TensorFlow-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/OpenCV-0D0D0D?style=for-the-badge&logo=opencv&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=D4AF37"/>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**DATABASES**
+
+<img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=D4AF37"/>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+
+**TOOLS & PLATFORM**
+
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/VS Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=D4AF37"/>
+<img src="https://img.shields.io/badge/Render-0D0D0D?style=for-the-badge&logo=render&logoColor=D4AF37"/>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=100%"/>
 
@@ -98,16 +159,6 @@ ML forecasting system for gold prices, tuned to an R² of 0.91.
 </table>
 
 <div align="center">Full case studies and live demos → <a href="https://gurkirat-portfolio-19.vercel.app"><b>gurkirat-portfolio-19.vercel.app</b></a></div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=100%"/>
-
-## Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Gurkirat19/Gurkirat19/output/github-snake-gold.svg" width="100%"/>
-</div>
-
-<div align="center"><sub>Snake eats the live contribution graph above — setup note at the bottom.</sub></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=100%"/>
 
