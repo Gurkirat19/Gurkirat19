@@ -1,27 +1,37 @@
 
-# 👨‍💻 Gurkirat Singh
+# 🚀 Gurkirat Singh
 
-<div align="center">
+> **AI Engineer • Full Stack Developer • Computer Vision Enthusiast**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Gurkirat%20Singh&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=58&color=0:0f172a,40:2563eb,100:06b6d4"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:06b6d4&text=Gurkirat%20Singh&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Building%20AI%20Products%20That%20Solve%20Real%20Problems&descAlignY=58"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI+Products;Full+Stack+Developer;Machine+Learning+Engineer;Open+Source+Learner;Always+Shipping+Projects)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=Gurkirat19&style=for-the-badge)
-![](https://img.shields.io/github/followers/Gurkirat19?style=for-the-badge)
-![](https://img.shields.io/github/stars/Gurkirat19?style=for-the-badge)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning;Computer+Vision;Always+Learning"/>
+</p>
 
 ---
 
-# 💫 About Me
+# 🧩 Dashboard
+
+| 👨 About | 💻 Tech | 🚀 Projects |
+|----------|---------|------------|
+| AI & Full Stack | Compact skill icons | Featured work |
+
+| 📈 Analytics | 💼 Experience | 🎯 Focus |
+|--------------|---------------|----------|
+| GitHub Stats | Internship | AI + MERN |
+
+---
+
+# 👨‍💻 About
 
 ```javascript
 const gurkirat = {
-  role: "AI Engineer & Full Stack Developer",
-  education: "B.Tech CSE (AI & ML)",
-  passion: [
+  role: "AI Engineer",
+  education: "B.Tech CSE (AI/ML)",
+  focus: [
     "Artificial Intelligence",
     "Computer Vision",
     "Full Stack Development",
@@ -29,115 +39,117 @@ const gurkirat = {
   ],
   currentlyLearning: [
     "Advanced JavaScript",
-    "Node.js",
     "React",
-    "System Design",
-    "Cloud"
-  ],
-  motto: "Build. Learn. Improve. Repeat."
+    "Node.js",
+    "System Design"
+  ]
 }
 ```
 
-## 🚀 Featured Skills
+---
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🛰️ Computer Vision
-- 🌐 MERN Stack Development
-- ⚡ REST APIs
-- ☁️ Deployment with Vercel & Render
+# 💻 Tech Stack
 
-# 🛠 Tech Stack
+<p align="center">
 
-### Languages
-![](https://skillicons.dev/icons?i=python,js,cpp,html,css)
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nodejs,express,fastapi,flask,mongodb,mysql,postgres,tensorflow,docker,git,github,linux,postman,vscode&perline=10"/>
 
-### Frontend
-![](https://skillicons.dev/icons?i=react,tailwind,vite)
-
-### Backend
-![](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask)
-
-### AI / ML
-![](https://skillicons.dev/icons?i=tensorflow)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-black?style=for-the-badge)
-
-### Databases & Tools
-![](https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,docker,linux,postman,vscode)
+</p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🌞 Solar AI Assistant
-AI platform that evaluates rooftop suitability using Computer Vision, weather intelligence, and machine learning to estimate energy generation, ROI, and optimal panel placement.
+<table>
+<tr>
+<td width="50%">
 
-**Stack:** React • FastAPI • Python • YOLO • OpenCV • TensorFlow
+### 🌞 Solar AI Assistant
 
----
+AI-powered rooftop analysis using YOLO, OpenCV and weather intelligence.
 
-## 📈 Gold Price Prediction
-Predictive analytics platform using ML models such as Random Forest and XGBoost for financial forecasting.
+**React • FastAPI • Python**
 
----
+🔗 GitHub  
+🌐 Live Demo
 
-## 🏥 AI Diagnostic Report Generator
-Healthcare AI solution that generates intelligent diagnostic reports using FastAPI and React.
+</td>
 
----
+<td width="50%">
 
-## 📦 Hospital Medical Supply Tracker
-Inventory management platform with authentication, dashboards, and supply tracking.
+### 📈 Gold Price Prediction
 
----
+Machine Learning model using Random Forest & XGBoost.
 
-# 💼 Experience
+**Python • Streamlit**
 
-### AI Automation Intern — ZYMR
-- AI workflow automation
-- API integration
-- Production-ready software
-- Modern JavaScript ecosystem
+🔗 GitHub
 
-### Python Developer Intern — Ansh Infotech
-- Machine Learning
-- Data Processing
-- Predictive Analytics
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🏥 AI Diagnostic Reports
+
+Healthcare AI platform for intelligent report generation.
+
+**React • FastAPI**
+
+</td>
+
+<td>
+
+### 📦 Hospital Supply Tracker
+
+Inventory management platform.
+
+**MERN Stack**
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat19&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat19&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Gurkirat19&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Gurkirat19&theme=tokyonight&hide_border=true"/>
-</p>
+> If these widgets don't load, they are typically being rate-limited by the free services. They usually recover automatically.
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurkirat19&theme=tokyo-night&hide_border=true"/>
-</p>
+---
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gurkirat19&theme=tokyonight&no-frame=true&column=4"/>
-</p>
+# 🏆 Highlights
 
-# 🐍 Contribution Snake
+- 🤖 AI Automation Intern — ZYMR
+- 🐍 Computer Vision Projects
+- 🚀 Full Stack Applications
+- ☁️ Deployment with Vercel & Render
+- 🏆 TechVerse Secretary
 
-Configure the `Platane/snk` GitHub Action and embed the generated SVG from the `output` branch.
+---
 
 # 🎯 Current Focus
 
 - AI Agents
 - LLM Applications
-- Full Stack Development
-- Open Source
+- MERN Stack
 - System Design
+- Open Source
+
+---
 
 # 🌐 Connect
 
@@ -150,12 +162,14 @@ Replace with your links:
 
 ---
 
-<div align="center">
+# 🐍 Snake
 
-### ⭐ Thanks for visiting my profile!
+Create `.github/workflows/snake.yml` and embed the generated SVG from the `output` branch.
 
-*"Building software that solves real-world problems with AI."*
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,40:2563eb,100:06b6d4"/>
+<p align="center">
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:2563eb,100:06b6d4"/>
+
+</p>
