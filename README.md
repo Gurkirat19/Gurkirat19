@@ -156,8 +156,16 @@ LinkedIn post automation with a custom web UI, plus an AI-powered candidate scre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat19&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Gurkirat19&theme=tokyonight&hide_border=true" width="65%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurkirat19&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 
 </div>
 
