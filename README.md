@@ -164,14 +164,23 @@ ML forecasting system for gold prices, tuned to an R² of 0.91.
 
 ## Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=E8E8E8&count_private=true" height="165"/>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=E8E8E8" height="165"/>
+</td>
+<td width="20"></td>
+<td align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurkirat19&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=888888" height="165"/>
+</td>
+<td width="20"></td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat19&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&langs_count=8" height="165"/>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat19&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8" height="165"/>
-
-</div>
+<br/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurkirat19&bg_color=0D0D0D&color=D4AF37&line=D4AF37&point=E8E8E8&hide_border=true&area=true" width="100%"/>
