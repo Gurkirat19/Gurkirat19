@@ -1,182 +1,161 @@
+
+# 👨‍💻 Gurkirat Singh
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gurkirat%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Gurkirat%20Singh&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Vision&descAlignY=58&color=0:0f172a,40:2563eb,100:06b6d4"/>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+%26+agentic+systems;FastAPI+%2B+React+%2B+Three.js;Automating+workflows+with+n8n;Python+%7C+PyTorch+%7C+Docker+%7C+Supabase" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI+Products;Full+Stack+Developer;Machine+Learning+Engineer;Open+Source+Learner;Always+Shipping+Projects)](https://git.io/typing-svg)
 
-<br/>
-
-[![🛰️ Visit Portfolio](https://img.shields.io/badge/🛰️_Visit_Portfolio-6D28D9?style=for-the-badge&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+![](https://komarev.com/ghpvc/?username=Gurkirat19&style=for-the-badge)
+![](https://img.shields.io/github/followers/Gurkirat19?style=for-the-badge)
+![](https://img.shields.io/github/stars/Gurkirat19?style=for-the-badge)
 
 </div>
 
 ---
 
-## About
+# 💫 About Me
 
-B.Tech CSE (AI & Data Science) student building production-grade ML systems, backend services, and automation pipelines. Organizer of **Code Crafter 3.0** — a 24-hour hackathon backed by IBM and Google Developer Group.
+```javascript
+const gurkirat = {
+  role: "AI Engineer & Full Stack Developer",
+  education: "B.Tech CSE (AI & ML)",
+  passion: [
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Full Stack Development",
+    "Automation"
+  ],
+  currentlyLearning: [
+    "Advanced JavaScript",
+    "Node.js",
+    "React",
+    "System Design",
+    "Cloud"
+  ],
+  motto: "Build. Learn. Improve. Repeat."
+}
+```
 
-<table>
-<tr>
-<td width="50%">
+## 🚀 Featured Skills
 
-**🔭 Currently**
-Backend Developer Intern @ Zymr Systems
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🛰️ Computer Vision
+- 🌐 MERN Stack Development
+- ⚡ REST APIs
+- ☁️ Deployment with Vercel & Render
 
-**🧠 Focus**
-RAG pipelines, agentic systems, evaluation-driven ML
+# 🛠 Tech Stack
 
-</td>
-<td width="50%">
+### Languages
+![](https://skillicons.dev/icons?i=python,js,cpp,html,css)
 
-**⚙️ Building**
-n8n automation workflows for real-world use cases
+### Frontend
+![](https://skillicons.dev/icons?i=react,tailwind,vite)
 
-**🎓 Education**
-IBM-certified · CT University, Ludhiana
+### Backend
+![](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask)
 
-</td>
-</tr>
-</table>
+### AI / ML
+![](https://skillicons.dev/icons?i=tensorflow)
 
----
+![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv)
+![YOLO](https://img.shields.io/badge/YOLO-black?style=for-the-badge)
 
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🚨 Evacify
-Real-time disaster evacuation route planner using A* and Dijkstra over live OSMnx road network data, with a dual-algorithm comparison view.
-
-`FastAPI` `React` `Mapbox` `OSMnx`
-
-[**View Repo →**](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏏 CricketIQ
-Scraper → Logistic Regression prediction model → semantic search over match data with ChromaDB, visualized on a D3.js/Chart.js dashboard.
-
-`RAG` `ChromaDB` `Sentence-Transformers` `D3.js`
-
-[**View Repo →**](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 DDR Agent
-AI-powered property inspection and diagnostic report generation platform — automates site inspection notes into structured, professional reports.
-
-`AI Agents` `LLM` `Report Generation`
-
-[**View Repo →**](#)
-
-</td>
-<td width="50%" valign="top">
-
-### ☀️ Solar AI Assistant
-Analyzes rooftop imagery to estimate solar panel requirements, projected electricity savings, and cost savings.
-
-`Computer Vision` `AI` `Energy Analytics`
-
-[**View Repo →**](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📅 SchedulePulse
-Automated appointment reminder SaaS sending scheduled WhatsApp notifications for service businesses.
-
-`FastAPI` `APScheduler` `Supabase` `WhatsApp API`
-
-[**View Repo →**](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Sentiment Analysis Engine
-Fine-tuned DistilBERT model for sentiment classification, served via FastAPI with a Streamlit dashboard for live inference.
-
-`DistilBERT` `FastAPI` `Streamlit` `HuggingFace`
-
-[**View Repo →**](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 n8n Automation Suite
-LinkedIn post automation with a custom web UI, plus an AI-powered candidate screening tool evaluating AI/ML applicants via GitHub and resume analysis.
-
-`n8n` `LLM Evaluation` `Webhooks`
-
-[**View Repo →**](#)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
+### Databases & Tools
+![](https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,docker,linux,postman,vscode)
 
 ---
 
-## GitHub Stats
+# 🌟 Featured Projects
 
-<div align="center">
+## 🌞 Solar AI Assistant
+AI platform that evaluates rooftop suitability using Computer Vision, weather intelligence, and machine learning to estimate energy generation, ROI, and optimal panel placement.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat19&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+**Stack:** React • FastAPI • Python • YOLO • OpenCV • TensorFlow
 
-<br/>
+---
 
-<img src="https://streak-stats.demolab.com?user=Gurkirat19&theme=tokyonight&hide_border=true" width="65%" />
+## 📈 Gold Price Prediction
+Predictive analytics platform using ML models such as Random Forest and XGBoost for financial forecasting.
 
-<br/>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurkirat19&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+## 🏥 AI Diagnostic Report Generator
+Healthcare AI solution that generates intelligent diagnostic reports using FastAPI and React.
 
-</div>
+---
+
+## 📦 Hospital Medical Supply Tracker
+Inventory management platform with authentication, dashboards, and supply tracking.
+
+---
+
+# 💼 Experience
+
+### AI Automation Intern — ZYMR
+- AI workflow automation
+- API integration
+- Production-ready software
+- Modern JavaScript ecosystem
+
+### Python Developer Intern — Ansh Infotech
+- Machine Learning
+- Data Processing
+- Predictive Analytics
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat19&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Gurkirat19&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurkirat19&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Gurkirat19&theme=tokyonight&no-frame=true&column=4"/>
+</p>
+
+# 🐍 Contribution Snake
+
+Configure the `Platane/snk` GitHub Action and embed the generated SVG from the `output` branch.
+
+# 🎯 Current Focus
+
+- AI Agents
+- LLM Applications
+- Full Stack Development
+- Open Source
+- System Design
+
+# 🌐 Connect
+
+Replace with your links:
+
+- LinkedIn
+- Portfolio
+- Email
+- LeetCode
 
 ---
 
 <div align="center">
 
-**Let's build something.**
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Gurkirat19&style=flat-square&color=blueviolet" alt="Profile views"/>
+*"Building software that solves real-world problems with AI."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,40:2563eb,100:06b6d4"/>
 
 </div>
