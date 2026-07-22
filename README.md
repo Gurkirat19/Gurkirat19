@@ -161,11 +161,11 @@ Replace with your links:
 - LeetCode
 
 ---
-
+<!-- 
 # 🐍 Snake
 
 /* Create `.github/workflows/snake.yml` and embed the generated SVG from the `output` branch. */
-
+-->
 ---
 
 <p align="center">
