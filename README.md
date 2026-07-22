@@ -164,7 +164,7 @@ Replace with your links:
 
 # 🐍 Snake
 
-Create `.github/workflows/snake.yml` and embed the generated SVG from the `output` branch.
+/* Create `.github/workflows/snake.yml` and embed the generated SVG from the `output` branch. */
 
 ---
 
