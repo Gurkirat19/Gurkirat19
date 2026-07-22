@@ -1,199 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=200&section=header&text=Gurkirat%20Singh&fontSize=48&fontColor=D4AF37&fontAlignY=40&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Systems%20Builder&descAlignY=60&descColor=E8C874&animation=fadeIn" width="100%"/>
+# Hi, I'm Gurkirat 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+deployed+systems;A*+%2F+Dijkstra+%C2%B7+RAG+%C2%B7+Forecasting+%C2%B7+Automation;Currently%3A+Backend+Intern+%40+Zymr+Systems" alt="Typing SVG" />
+### Backend Developer Intern @ Zymr Systems · AI & Data Science @ CT University
 
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://gurkirat-portfolio-19.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/gurkirat-singh-2899b92a8/)
-[![Email](https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:gurkirat19singh.19@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Gurkirat19&style=for-the-badge&color=D4AF37&labelColor=0D0D0D&label=PROFILE+VIEWS"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=100%"/>
+---
 
 ## About
 
-CSE (AI & Data Science) student, CT University — currently a **Backend Developer Intern at Zymr Systems**. I build systems that hold up under review: routing engines on real map data, RAG pipelines, forecasting models tuned to real metrics, automation pipelines that run unattended.
+B.Tech CSE (AI & Data Science) student building production-grade ML systems, backend services, and automation pipelines. Vice President @ E-Cell, organizer of **Code Crafter 3.0** — a 24-hour hackathon backed by IBM and Google Developer Group.
 
-Vice President, E-Cell CT University — built and ran **Code Crafter 3.0**, a 24-hour hackathon backed by IBM and Google Developer Group.
+- 🔭 Currently interning as a **Backend Developer** at Zymr Systems
+- 🧠 Focused on RAG pipelines, agentic systems, and evaluation-driven ML engineering
+- ⚙️ Building n8n automation workflows for real-world use cases
+- 🎓 IBM-certified, CT University, Ludhiana
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=100%"/>
+---
 
 ## Tech Stack
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=D4AF37"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**FRAMEWORKS**
-
-<img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Express-0D0D0D?style=for-the-badge&logo=express&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Flask-0D0D0D?style=for-the-badge&logo=flask&logoColor=D4AF37"/>
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/TensorFlow-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/OpenCV-0D0D0D?style=for-the-badge&logo=opencv&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=D4AF37"/>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-**DATABASES**
-
-<img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=D4AF37"/>
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<div align="center">
-
-**TOOLS & PLATFORM**
-
-<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/VS Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Vercel-0D0D0D?style=for-the-badge&logo=vercel&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Render-0D0D0D?style=for-the-badge&logo=render&logoColor=D4AF37"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=100%"/>
+---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🛰️ [Cinematic Space Portfolio](#)
+Personal portfolio built with Three.js + GSAP-style scroll logic — a shuttle rocket with booster separation, a detailed space station, and a scroll-gated ignition sequence, wrapped in glassmorphic UI.
+`Three.js` `WebGL` `GSAP` `Glassmorphism`
 
-**🚨 [Evacify](https://github.com/Gurkirat19/Evacify)**
-<br/>
-Disaster evacuation routing engine comparing **A\*** and **Dijkstra** on real OSMnx road-network data.
-<br/>
-`FastAPI` `React` `Mapbox` `OSMnx`
+### 🚨 [Evacify — Disaster Evacuation Routing](#)
+Real-time evacuation route planner using A* and Dijkstra over live OSMnx road network data, with a dual-algorithm comparison view.
+`FastAPI` `React` `Mapbox` `OSMnx` `Graph Algorithms`
 
-</td>
-<td width="50%" valign="top">
+### 📅 [SchedulePulse — WhatsApp Reminder SaaS](#)
+Automated appointment reminder platform sending scheduled WhatsApp notifications for service businesses.
+`FastAPI` `APScheduler` `Supabase` `WhatsApp API`
 
-**🩺 [AI Diagnostic Report Generator](https://github.com/Gurkirat19/-DDR-AI-Intelligent-Diagnostic-Report-Generation)**
-<br/>
-Converts raw medical documents into structured, LLM-generated diagnostic reports.
-<br/>
-`React` `FastAPI` `OpenAI` `PyMuPDF`
+### 🏏 [Cricket Analytics RAG Pipeline](#)
+End-to-end analytics system: web scraper → Logistic Regression prediction model → semantic search over match data using ChromaDB and sentence-transformers, visualized with a D3.js/Chart.js dashboard.
+`RAG` `ChromaDB` `Sentence-Transformers` `D3.js`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 💬 [Sentiment Analysis Engine](#)
+Fine-tuned DistilBERT model for sentiment classification, served via FastAPI with a Streamlit dashboard for live inference.
+`DistilBERT` `FastAPI` `Streamlit` `HuggingFace`
 
-**🏏 [CricketIQ](https://github.com/Gurkirat19/CricketIQ)**
-<br/>
-Cricket analytics engine turning raw IPL ball-by-ball data into real-time, model-backed insights.
-<br/>
-`Python` `Pandas` `Streamlit`
+### 🤖 [n8n Automation Suite](#)
+Two production workflows: a LinkedIn post automation system with a custom web UI, and an AI-powered candidate screening tool that evaluates AI/ML applicants via GitHub and resume analysis.
+`n8n` `LLM Evaluation` `Webhooks` `Automation`
 
-</td>
-<td width="50%" valign="top">
+---
 
-**💰 [Gold Price Prediction](https://github.com/Gurkirat19/Gold_price_prediction)**
-<br/>
-ML forecasting system for gold prices, tuned to an R² of 0.91.
-<br/>
-`Python` `XGBoost` `Scikit-Learn`
-
-</td>
-</tr>
-</table>
-
-<div align="center">Full case studies and live demos → <a href="https://gurkirat-portfolio-19.vercel.app"><b>gurkirat-portfolio-19.vercel.app</b></a></div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=100%"/>
-
-## Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Gurkirat19&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=888888" height="165"/>
-</div>
-
-<br/>
+## GitHub Stats
 
 <div align="center">
 
-**Contribution Calendar**
-
-<img src="https://ghchart.rshah.org/40c463/Gurkirat19" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurkirat19&bg_color=0D0D0D&color=D4AF37&line=D4AF37&point=E8E8E8&hide_border=true&area=true" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=100%"/>
-
-## Currently
-
-- **Building** — AI candidate-screening tool (GitHub + resume analysis) and a LinkedIn post-automation system, both on n8n
-- **Learning** — production RAG patterns, evaluation pipelines, agentic systems
-- **Working** — Backend Developer Intern @ Zymr Systems
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=120&section=footer"/>
+**Let's build something.**
 
 </div>
