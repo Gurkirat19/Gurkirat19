@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gurkirat%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20Intern%20%40%20Zymr%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gurkirat%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+%26+agentic+systems;FastAPI+%2B+React+%2B+Three.js;Automating+workflows+with+n8n;Vice+President+%40+E-Cell" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+%26+agentic+systems;FastAPI+%2B+React+%2B+Three.js;Automating+workflows+with+n8n;Python+%7C+PyTorch+%7C+Docker+%7C+Supabase" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 ## About
 
-B.Tech CSE (AI & Data Science) student building production-grade ML systems, backend services, and automation pipelines. Vice President @ E-Cell, organizer of **Code Crafter 3.0** — a 24-hour hackathon backed by IBM and Google Developer Group.
+B.Tech CSE (AI & Data Science) student building production-grade ML systems, backend services, and automation pipelines. Organizer of **Code Crafter 3.0** — a 24-hour hackathon backed by IBM and Google Developer Group.
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ IBM-certified · CT University, Ludhiana
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -80,17 +80,7 @@ Real-time disaster evacuation route planner using A* and Dijkstra over live OSMn
 </td>
 <td width="50%" valign="top">
 
-### 📅 SchedulePulse
-Automated appointment reminder SaaS sending scheduled WhatsApp notifications for service businesses.
-
-`FastAPI` `APScheduler` `Supabase` `WhatsApp API`
-
-[**View Repo →**](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏏 Cricket Analytics RAG Pipeline
+### 🏏 CricketIQ
 Scraper → Logistic Regression prediction model → semantic search over match data with ChromaDB, visualized on a D3.js/Chart.js dashboard.
 
 `RAG` `ChromaDB` `Sentence-Transformers` `D3.js`
@@ -102,6 +92,38 @@ Scraper → Logistic Regression prediction model → semantic search over match 
 <tr>
 <td width="50%" valign="top">
 
+### 🏠 DDR Agent
+AI-powered property inspection and diagnostic report generation platform — automates site inspection notes into structured, professional reports.
+
+`AI Agents` `LLM` `Report Generation`
+
+[**View Repo →**](#)
+
+</td>
+<td width="50%" valign="top">
+
+### ☀️ Solar AI Assistant
+Analyzes rooftop imagery to estimate solar panel requirements, projected electricity savings, and cost savings.
+
+`Computer Vision` `AI` `Energy Analytics`
+
+[**View Repo →**](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 SchedulePulse
+Automated appointment reminder SaaS sending scheduled WhatsApp notifications for service businesses.
+
+`FastAPI` `APScheduler` `Supabase` `WhatsApp API`
+
+[**View Repo →**](#)
+
+</td>
+<td width="50%" valign="top">
+
 ### 💬 Sentiment Analysis Engine
 Fine-tuned DistilBERT model for sentiment classification, served via FastAPI with a Streamlit dashboard for live inference.
 
@@ -110,6 +132,8 @@ Fine-tuned DistilBERT model for sentiment classification, served via FastAPI wit
 [**View Repo →**](#)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 n8n Automation Suite
@@ -118,6 +142,9 @@ LinkedIn post automation with a custom web UI, plus an AI-powered candidate scre
 `n8n` `LLM Evaluation` `Webhooks`
 
 [**View Repo →**](#)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -129,8 +156,8 @@ LinkedIn post automation with a custom web UI, plus an AI-powered candidate scre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat19&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
 </div>
 
@@ -140,7 +167,7 @@ LinkedIn post automation with a custom web UI, plus an AI-powered candidate scre
 
 **Let's build something.**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Gurkirat19&style=flat-square&color=blueviolet" alt="Profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
