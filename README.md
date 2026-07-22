@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hi, I'm Gurkirat 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gurkirat%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20Intern%20%40%20Zymr%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-### Backend Developer Intern @ Zymr Systems · AI & Data Science @ CT University
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+%26+agentic+systems;FastAPI+%2B+React+%2B+Three.js;Automating+workflows+with+n8n;Vice+President+%40+E-Cell" alt="Typing SVG" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<br/>
+
+[![🛰️ Visit Portfolio](https://img.shields.io/badge/🛰️_Visit_Portfolio-6D28D9?style=for-the-badge&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
@@ -16,10 +20,28 @@
 
 B.Tech CSE (AI & Data Science) student building production-grade ML systems, backend services, and automation pipelines. Vice President @ E-Cell, organizer of **Code Crafter 3.0** — a 24-hour hackathon backed by IBM and Google Developer Group.
 
-- 🔭 Currently interning as a **Backend Developer** at Zymr Systems
-- 🧠 Focused on RAG pipelines, agentic systems, and evaluation-driven ML engineering
-- ⚙️ Building n8n automation workflows for real-world use cases
-- 🎓 IBM-certified, CT University, Ludhiana
+<table>
+<tr>
+<td width="50%">
+
+**🔭 Currently**
+Backend Developer Intern @ Zymr Systems
+
+**🧠 Focus**
+RAG pipelines, agentic systems, evaluation-driven ML
+
+</td>
+<td width="50%">
+
+**⚙️ Building**
+n8n automation workflows for real-world use cases
+
+**🎓 Education**
+IBM-certified · CT University, Ludhiana
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -44,29 +66,62 @@ B.Tech CSE (AI & Data Science) student building production-grade ML systems, bac
 
 ## Featured Projects
 
-### 🛰️ [Cinematic Space Portfolio](#)
-Personal portfolio built with Three.js + GSAP-style scroll logic — a shuttle rocket with booster separation, a detailed space station, and a scroll-gated ignition sequence, wrapped in glassmorphic UI.
-`Three.js` `WebGL` `GSAP` `Glassmorphism`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🚨 [Evacify — Disaster Evacuation Routing](#)
-Real-time evacuation route planner using A* and Dijkstra over live OSMnx road network data, with a dual-algorithm comparison view.
-`FastAPI` `React` `Mapbox` `OSMnx` `Graph Algorithms`
+### 🚨 Evacify
+Real-time disaster evacuation route planner using A* and Dijkstra over live OSMnx road network data, with a dual-algorithm comparison view.
 
-### 📅 [SchedulePulse — WhatsApp Reminder SaaS](#)
-Automated appointment reminder platform sending scheduled WhatsApp notifications for service businesses.
+`FastAPI` `React` `Mapbox` `OSMnx`
+
+[**View Repo →**](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 SchedulePulse
+Automated appointment reminder SaaS sending scheduled WhatsApp notifications for service businesses.
+
 `FastAPI` `APScheduler` `Supabase` `WhatsApp API`
 
-### 🏏 [Cricket Analytics RAG Pipeline](#)
-End-to-end analytics system: web scraper → Logistic Regression prediction model → semantic search over match data using ChromaDB and sentence-transformers, visualized with a D3.js/Chart.js dashboard.
+[**View Repo →**](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏏 Cricket Analytics RAG Pipeline
+Scraper → Logistic Regression prediction model → semantic search over match data with ChromaDB, visualized on a D3.js/Chart.js dashboard.
+
 `RAG` `ChromaDB` `Sentence-Transformers` `D3.js`
 
-### 💬 [Sentiment Analysis Engine](#)
+[**View Repo →**](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Sentiment Analysis Engine
 Fine-tuned DistilBERT model for sentiment classification, served via FastAPI with a Streamlit dashboard for live inference.
+
 `DistilBERT` `FastAPI` `Streamlit` `HuggingFace`
 
-### 🤖 [n8n Automation Suite](#)
-Two production workflows: a LinkedIn post automation system with a custom web UI, and an AI-powered candidate screening tool that evaluates AI/ML applicants via GitHub and resume analysis.
-`n8n` `LLM Evaluation` `Webhooks` `Automation`
+[**View Repo →**](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 n8n Automation Suite
+LinkedIn post automation with a custom web UI, plus an AI-powered candidate screening tool evaluating AI/ML applicants via GitHub and resume analysis.
+
+`n8n` `LLM Evaluation` `Webhooks`
+
+[**View Repo →**](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -84,5 +139,9 @@ Two production workflows: a LinkedIn post automation system with a custom web UI
 <div align="center">
 
 **Let's build something.**
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
