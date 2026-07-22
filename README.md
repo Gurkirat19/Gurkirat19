@@ -1,227 +1,440 @@
-<div align="center">
+Act as a Senior Engineering Hiring Manager from top MNCs (Google, Microsoft, Amazon, Meta, Apple, Netflix, NVIDIA, Adobe, Atlassian, Salesforce) who has reviewed over 100,000 GitHub profiles.
 
-# 👋 Hi, I'm Gurkirat Singh
+Your task is to create the BEST possible GitHub Profile README for me that immediately convinces recruiters that I am internship and full-time Software Engineer / AI Engineer material.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Computer+Vision+Developer;Software+Developer;Blockchain+Explorer;Hackathon+Enthusiast;Building+AI+Powered+Solutions"/>
+Analyze my GitHub profile first:
 
-<br>
+https://github.com/Gurkirat19
 
-<a href="https://gurkirat-portfolio-19.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
-</a>
+Then create a modern, premium, recruiter-focused GitHub Profile README.
 
-<a href="#">
-<img src="https://img.shields.io/badge/📄_Resume-0F172A?style=for-the-badge&logo=readthedocs&logoColor=A855F7"/>
-</a>
+The README should look like something from the Top 1% of GitHub profiles in 2026.
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+DO NOT create a generic README.
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+Instead think exactly like a hiring manager.
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
+Before writing ask yourself:
 
-<img src="https://komarev.com/ghpvc/?username=Gurkirat19&style=for-the-badge&color=blueviolet"/>
+"What would make me immediately shortlist this candidate?"
 
-</div>
+Prioritize those things.
 
----
+---------------------------------
+HIRING MANAGER REQUIREMENTS
+---------------------------------
 
-# 🤖 Initializing Developer Profile...
+When I open a GitHub profile, I look for these things IN ORDER:
 
-```python
-class Gurkirat:
+1. Professional branding
+2. Clean profile design
+3. Clear introduction
+4. Strong technical stack
+5. Quality projects
+6. Consistent GitHub activity
+7. Open Source contributions
+8. AI/ML experience
+9. Software Engineering ability
+10. Passion for learning
+11. Clean documentation
+12. Modern GitHub features
 
-    def __init__(self):
-        self.role = [
-            "AI/ML Engineer",
-            "Software Developer"
-        ]
+The README should optimize for every single one.
 
-        self.skills = [
-            "Machine Learning",
-            "Computer Vision",
-            "Python",
-            "React",
-            "Flask"
-        ]
+---------------------------------
+DESIGN STYLE
+---------------------------------
 
-        self.current_focus = [
-            "AI Products",
-            "Vision AI",
-            "Full Stack Applications"
-        ]
+Modern
 
-        self.motto = "Turning ideas into intelligent solutions"
+Premium
 
-    def status(self):
-        return "🚀 Building the future, one project at a time."
+Minimal
 
+Professional
 
-me = Gurkirat()
-print(me.status())
-```
+Dark theme friendly
 
-```console
-🚀 Building the future, one project at a time.
-```
+Animated but not cluttered
 
----
+Looks like a Senior Software Engineer profile
 
-# ⚡ Tech Stack
+Use badges sparingly.
 
-<div align="center">
+No emoji spam.
 
-### 🎨 Frontend
+No cringe.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+No "Hi I'm..."
 
-### ⚙️ Backend
+No unnecessary paragraphs.
 
-<img src="https://skillicons.dev/icons?i=python,flask"/>
+Make everything aligned.
 
-### 🗄️ Database
+Use tables where useful.
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+Use separators.
 
-### 💻 Languages
+Everything should feel intentional.
 
-<img src="https://skillicons.dev/icons?i=python,cpp"/>
+---------------------------------
+HEADER
+---------------------------------
 
-</div>
+Create a premium animated header.
 
----
+Include
 
-# 🚀 Featured Projects
+Name
 
-<table>
-<tr>
+Current Role
 
-<td width="50%">
+AI Engineer
 
-### 🧠 AI Diagnostic Report Generator
+Full Stack Developer
 
-AI-powered medical report analysis and intelligent report generation.
+Software Engineer
 
-**Tech Stack**
+Open Source Enthusiast
 
-`React` `FastAPI` `OpenAI` `PyMuPDF`
+A short professional tagline.
 
-</td>
+Include animated typing SVG.
 
-<td width="50%">
+---------------------------------
+PROFILE VIEWS
+---------------------------------
 
-### ☀️ Rooftop Solar Potential Analysis
+Include
 
-Vision AI system for solar feasibility assessment.
+Profile Views
 
-**Tech Stack**
+Followers
 
-`Python` `TensorFlow` `OpenCV` `CNN`
+Stars
 
-</td>
+GitHub trophies
 
-</tr>
+GitHub streak
 
-<tr>
+Contribution graph
 
-<td width="50%">
+Overall stats
 
-### 💰 Gold Price Prediction
+Top languages
 
-Machine Learning forecasting system with R² score of 0.91.
+---------------------------------
+ABOUT ME
+---------------------------------
 
-**Tech Stack**
+Write a concise but impressive About Me section.
 
-`Python` `XGBoost` `Scikit-Learn`
+Mention:
 
-</td>
+Computer Science Engineering
 
-<td width="50%">
+AI/ML
 
-### 🚨 Escape Route
+Full Stack Development
 
-Intelligent emergency evacuation and routing system.
+Problem Solving
 
-**Tech Stack**
+Always Learning
 
-`Python` `A*` `Dijkstra`
+Building Real-world Products
 
-</td>
+Internship Experience
 
-</tr>
+Open Source Interest
 
-<tr>
+Keep it concise.
 
-<td width="50%">
+---------------------------------
+TECH STACK
+---------------------------------
 
-### ⛓️ Blockchain Crowdfunding
+Create beautiful categorized sections.
 
-Decentralized crowdfunding platform with milestone releases.
+Languages
 
-**Tech Stack**
+JavaScript
 
-`Solidity` `Rust` `Web3`
+Python
 
-</td>
+C++
 
-<td width="50%">
+HTML
 
-### 🎮 Virtual Escape Room
+CSS
 
-Interactive puzzle-solving game built with Python.
+Frameworks
 
-**Tech Stack**
+React
 
-`Python` `Pygame`
+Node.js
 
-</td>
+Express
 
-</tr>
+FastAPI
 
-</table>
+Flask
 
----
+AI
 
-# 💭 Developer Mindset
+TensorFlow
 
-> "Technology becomes meaningful when it solves real-world problems and creates impact."
+OpenCV
 
----
+YOLO
 
-# 📫 Connect With Me
+Scikit-Learn
 
-<div align="center">
+XGBoost
 
-<a href="mailto:gurkirat19singh.19@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Pandas
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+NumPy
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+Database
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
+MongoDB
 
-</div>
+MySQL
 
----
+PostgreSQL
 
-<div align="center">
+Tools
 
-### ⭐ Thanks for visiting my profile!
+Git
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Always+Learning;Always+Building;Always+Improving+🚀"/>
+GitHub
 
-</div>
+Docker
+
+Linux
+
+VS Code
+
+Postman
+
+Render
+
+Vercel
+
+Cloud
+
+---------------------------------
+FEATURED PROJECTS
+---------------------------------
+
+Automatically detect my best repositories.
+
+Choose the strongest ones.
+
+For every project create a premium project card including:
+
+Project Name
+
+Short description
+
+Tech Stack
+
+Key Features
+
+GitHub Link
+
+Live Demo (if available)
+
+Do NOT list weak projects.
+
+Only showcase my best work.
+
+---------------------------------
+WHAT MAKES ME DIFFERENT
+---------------------------------
+
+Create a section highlighting:
+
+Real-world AI Projects
+
+Computer Vision
+
+Machine Learning
+
+Web Development
+
+Deployment Experience
+
+API Integration
+
+Problem Solving
+
+Hackathons
+
+Internships
+
+Leadership
+
+---------------------------------
+GITHUB STATS
+---------------------------------
+
+Include
+
+GitHub Stats
+
+Contribution Graph
+
+Streak Stats
+
+Top Languages
+
+Productive Time
+
+Activity Graph
+
+---------------------------------
+SNAKE GAME
+---------------------------------
+
+Include the latest GitHub Snake Contribution Animation.
+
+Use the latest SVG implementation.
+
+Place it near the bottom.
+
+---------------------------------
+ACHIEVEMENTS
+---------------------------------
+
+GitHub Trophies
+
+Achievements
+
+Hackathons
+
+Certifications
+
+Milestones
+
+---------------------------------
+CURRENT FOCUS
+---------------------------------
+
+Include a section:
+
+Currently Working On
+
+Learning
+
+Exploring
+
+Building
+
+Reading
+
+---------------------------------
+CONNECT
+---------------------------------
+
+Include premium contact buttons.
+
+GitHub
+
+LinkedIn
+
+Portfolio
+
+Email
+
+LeetCode (if available)
+
+---------------------------------
+FOOTER
+---------------------------------
+
+Premium animated footer.
+
+Wave animation.
+
+Thank you message.
+
+Minimal.
+
+---------------------------------
+IMPORTANT DESIGN RULES
+---------------------------------
+
+Use
+
+Markdown
+
+HTML where necessary
+
+SVG badges
+
+GitHub Readme Stats
+
+Shields.io
+
+Skill Icons
+
+Typing SVG
+
+Activity Graph
+
+Snake Animation
+
+Modern GitHub widgets
+
+Everything must work.
+
+No broken links.
+
+No deprecated widgets.
+
+No outdated syntax.
+
+---------------------------------
+QUALITY REQUIREMENTS
+---------------------------------
+
+The README should look better than 99% of GitHub profiles.
+
+It should be recruiter-focused instead of developer-focused.
+
+Everything should be optimized for readability.
+
+Avoid unnecessary text.
+
+Use whitespace correctly.
+
+The first screen should instantly communicate:
+
+✔ Professional
+✔ Skilled
+✔ Active
+✔ Experienced
+✔ AI Engineer
+✔ Full Stack Developer
+✔ Ready for Internship / Full-time Role
+
+---------------------------------
+FINAL OUTPUT
+---------------------------------
+
+Generate one complete README.md.
+
+No explanations.
+
+No placeholders unless absolutely necessary.
+
+Every badge must be valid.
+
+Every widget must be current.
+
+Use the latest versions of all GitHub widgets available in 2026.
+
+Ensure the README renders correctly on GitHub without modification.
+
+The final README should be polished enough that if a recruiter spends only 20 seconds on my profile, they immediately see evidence of technical ability, professionalism, and consistent engineering work.
