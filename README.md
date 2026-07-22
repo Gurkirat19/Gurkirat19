@@ -164,21 +164,9 @@ ML forecasting system for gold prices, tuned to an R² of 0.91.
 
 ## Stats
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gurkirat19&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=E8E8E8" height="165"/>
-</td>
-<td width="20"></td>
-<td align="center">
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=Gurkirat19&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=888888" height="165"/>
-</td>
-<td width="20"></td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat19&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=E8E8E8&langs_count=8" height="165"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -186,7 +174,7 @@ ML forecasting system for gold prices, tuned to an R² of 0.91.
 
 **Contribution Calendar**
 
-<img src="https://ghchart.rshah.org/D4AF37/Gurkirat19" width="100%"/>
+<img src="https://ghchart.rshah.org/40c463/Gurkirat19" width="100%"/>
 
 </div>
 
