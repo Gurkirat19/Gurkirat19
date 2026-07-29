@@ -113,7 +113,7 @@ Inventory management platform.
 
 ---
 
-# 📊 GitHub Analytics
+<!--  # 📊 GitHub Analytics
 
 <p align="center">
 
@@ -127,7 +127,7 @@ Inventory management platform.
 
 </p>
 
-> If these widgets don't load, they are typically being rate-limited by the free services. They usually recover automatically.
+> If these widgets don't load, they are typically being rate-limited by the free services. They usually recover automatically. -->
 
 ---
 
